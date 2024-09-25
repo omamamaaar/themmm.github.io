@@ -23,11 +23,13 @@
         }
         input[type="text"] {
             width: 100%;
+            height: 50px; /* Set a height to make fields square */
             padding: 8px;
             margin-top: 5px;
             margin-bottom: 15px;
             border-radius: 4px;
             border: 1px solid #ccc;
+            box-sizing: border-box; /* Include padding and border in the element's total width and height */
         }
         button {
             display: block;
