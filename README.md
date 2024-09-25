@@ -5,13 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>7 Questions Form</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            padding: 20px;
-        }
         .container {
-            max-width: 600px;
+            width: 600px;
             margin: 0 auto;
             background-color: #fff;
             padding: 20px;
