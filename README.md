@@ -83,11 +83,7 @@
             }
 
             console.log('Answers:', answers);
-            // Here, you can add code to submit the data or move to the next step/page.
             alert('Your answers have been recorded!');
-
-            // Redirect to a new page if needed
-            // window.location.href = 'nextPage.html';
         }
     </script>
 </body>
